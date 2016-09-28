@@ -6,7 +6,7 @@ dependencies = [
 
 setup(
   name='bintraypy',
-  version='0.1.0',
+  version='0.1.1',
   description='Wrapper for (parts of) the Bintray API',
   url='http://github.com/Gohla/bintraypy',
   author='Gabriel Konat',
